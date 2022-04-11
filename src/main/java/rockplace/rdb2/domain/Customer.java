@@ -22,6 +22,4 @@ public class Customer {
     private String manager;
     private String phone;
     private String mail;
-
-
 }
